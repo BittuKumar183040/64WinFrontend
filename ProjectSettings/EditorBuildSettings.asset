@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 5c0c7075f337ef049bd744efe81511bb
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 00cedeea070d1434d8757c589b6f6b85
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Signup.unity
+    guid: 463bf3f3ad38ac2468429ad2e8ac0420
+  - enabled: 1
+    path: Assets/Scenes/ForgotPassword.unity
+    guid: 7163ed6e397e78346924d9f23edc90ca
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 866c48951b21aed4c933006c5545f761, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: cf7b3b82b20328447a0589031e18f8f9, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 77791f8c0b6326f46aaa24687a93fd62, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
